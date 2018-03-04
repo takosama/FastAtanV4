@@ -20,7 +20,7 @@ class Program
             for (int i = 0; i < 10000000; i++)
             {
                 ans = Math.Atan(i * 0.00001);
-                //      ans = Atan.Compute(i*0.00001);
+                //      ans = Atan.Compute(i*0.00001); 
 
                 //      ans = Math.Cos(0.01 * i);
                 //   ans = Cos.Compute(0.01f * i);
